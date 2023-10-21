@@ -1,0 +1,70 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+header{
+    background-color:black;
+    color: azure;
+    
+}
+
+#menu{
+    color: aquamarine;
+    text-align: center;
+    padding-left: 65%;
+    list-style: none;
+    
+}
+
+#imagem-fundo{
+    background: url(witcher.jpg);
+    height: 900px;
+}
+
+#t1{
+    color: deepskyblue;
+    text-align: center;
+    padding-top: 55%;
+    padding-left: 10%;
+}
+
+#t2{
+    color: cornflowerblue;
+    text-align: center;
+    padding-left: 10%;
+    padding-top: 1%;
+}
+
+#t3{
+    color: deepskyblue;
+    text-align: center;
+    padding-top: 2%;
+    padding-left: 10%;
+}
+
+#acao-botao{
+    color:darkcyan;
+    border: 1px violet solid;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
+    background-color: moccasin;
+    margin-left: 5%;
+    
+}
+#logo-figura{
+    margin-left: 6%;
+    padding-top: 1%;
+}
+
+li{
+    float: left;
+    padding: 10px 20px 10px 20px;
+    font-size: 0,1rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+   
